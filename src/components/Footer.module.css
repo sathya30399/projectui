@@ -1,0 +1,22 @@
+.footer{
+border: 1px solid rgba(153, 84, 84, 0.199);
+max-width: 80%;
+margin: auto;
+background-color: white;
+}
+.footer_p{
+border: 0px solid;
+margin:auto 40%; 
+padding:1%;
+/* text-align: center; */
+font-size: 15px;
+color: hwb(22 4% 7%);
+}
+.footer_nxt_p{
+border: 0px solid;
+margin:auto 28%; 
+ padding:1%;
+font-size: 15px;
+/* text-align: center; */
+color: hwb(22 4% 7%);
+}

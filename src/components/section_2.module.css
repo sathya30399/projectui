@@ -1,0 +1,35 @@
+.section_2{
+    border: 0px solid red;
+    max-width: 80%;
+    margin: auto;
+    background-color:hsl(0deg 3% 68% / 11%);
+}
+
+.sec2_flex_container{
+    border: 0px solid;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    
+}
+.sec2_flex_sub_container{
+    border: 0px solid;
+    flex-basis: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+    box-shadow: 0px 0px 5px 0px hsla(0, 3%, 68%, 0.749);
+
+}
+.sec2_flex_sub_container_icon{
+    font-size: 50px;
+    margin: 10px 135px;
+
+}
+.sec2_flex_sub_container_para{
+    color: hwb(22 4% 7%);
+    text-align: center;
+    font-weight: bold;
+    margin: 0;
+}
